@@ -28,4 +28,6 @@ Note: If you're using 16x2 LCD1602 or similar use also need potentiometer
 
 **Output:**
 
+My Friend made me to display this!! I too loved the book (Love and Other words by Christina Lauren)
+
 https://github.com/user-attachments/assets/dec93c22-8274-49d3-8ac1-63d5edc8d997
