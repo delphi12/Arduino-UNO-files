@@ -15,7 +15,7 @@ void setup() {
   delay(300); 
 } 
   lcd.setCursor(0,1);
-  lcd.print("ElectroniClinic"); 
+  lcd.print("Delphi's ElectroniClinic"); 
  
   delay(5000); 
   lcd.clear(); 
