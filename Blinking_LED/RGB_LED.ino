@@ -1,10 +1,10 @@
 
-const int redPin = 10;  // Red
-const int greenPin = 9;  // Green 
-const int bluePin = 8;  //Blue
+const int redPin = 11;  // Red
+const int greenPin = 10;  // Green 
+const int bluePin = 9;  //Blue
 
 void setup() {
-  // put your setup code here, to run once:
+  // Initializing ledpins as output
   pinMode(redPin, OUTPUT); 
   pinMode(greenPin, OUTPUT); 
   pinMode(bluePin, OUTPUT); 
@@ -12,7 +12,6 @@ void setup() {
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
   // Basic colors:  
   color(255, 0, 0); //red 
   delay(500);  
@@ -21,7 +20,7 @@ void loop() {
   color(0, 0, 255); //blue  
   delay(500); 
   
-  // Example blended colors:  
+  //blended colors:  
   color(255,0,252); //red  
   delay(500);  
   color(237,109,0); //orange  

@@ -1,14 +1,13 @@
-
-const int ledPin =9;
+//Blinking_LED 
+const int ledPin =9; //Number of LED Pin 
 void setup() {
-  // put your setup code here, to run once:
+  // initialize the digital pin as an output
   pinMode(ledPin, OUTPUT);
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-  digitalWrite(ledPin, HIGH);
+  digitalWrite(ledPin, HIGH); // turn on LED
   delay(1000);
-  digitalWrite(ledPin, LOW);
+  digitalWrite(ledPin, LOW); // trun off LED
   delay(1000);
 }
