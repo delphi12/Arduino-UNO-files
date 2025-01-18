@@ -1,4 +1,4 @@
-**LCD with Ardunio:**
+# LCD with Ardunio:
 
 To display some characters and string in LCD using arduino. It invloves lot of wire connections and approprite 
 library installation (If you have 16x2 LCD). Be patient and do it carefully. you might end up burning your LCD or Ardunio. My board configuration might not go with yours. check your device model and get the appropriate libraries and LCD address.

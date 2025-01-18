@@ -1,3 +1,4 @@
+# RGB LED
 **Intro:**
 
 I have used PWM to control an RGB LED to flash various kinds of color. When different PWM values are set to the R, G, and B pins of the LED, its brightness will be different. When the three different colors are mixed, we can see that the RGB LED flashes different colors

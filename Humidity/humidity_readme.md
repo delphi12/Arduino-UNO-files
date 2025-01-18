@@ -1,38 +1,38 @@
-**Humidity Sensor**
+# Humidity Sensor
 
 The DHT11 sensor is a digital sensor used to measure temperature and relative humidity
 
 **Structure:**
 
-Sensing Element for Humidity:
+*Sensing Element for Humidity:*
 
-The sensor uses a capacitive humidity sensing element.
+- The sensor uses a capacitive humidity sensing element.
 This element consists of two electrodes with a moisture-holding substrate between them.
 When the substrate absorbs water vapor from the air, its capacitance changes.
 
-Temperature Sensing:
+*Temperature Sensing:*
 
-The sensor has a thermistor (a temperature-sensitive resistor). The resistance of the thermistor changes with temperature.
+- The sensor has a thermistor (a temperature-sensitive resistor). The resistance of the thermistor changes with temperature.
 
-Microcontroller:
+*Microcontroller:*
 
-An internal microcontroller processes the analog signals from the sensing elements and converts them into a digital output.
+- An internal microcontroller processes the analog signals from the sensing elements and converts them into a digital output.
 
 **Working Principle:**
 
-Humidity Measurement:
+*Humidity Measurement:*
 
-The capacitive sensing element detects changes in capacitance caused by water vapor in the air.
+- The capacitive sensing element detects changes in capacitance caused by water vapor in the air.
 The microcontroller calculates the relative humidity (RH) using these changes.
 
-Temperature Measurement:
+*Temperature Measurement:*
 
-The thermistor measures temperature by detecting resistance variations due to temperature changes.
+- The thermistor measures temperature by detecting resistance variations due to temperature changes.
 The microcontroller converts the resistance into a temperature value.
 
-Data Output:
+*Data Output:*
 
-Both temperature and humidity values are sent as digital signals to the microcontroller or host device.
+- Both temperature and humidity values are sent as digital signals to the microcontroller or host device.
 Communication occurs through a single-wire serial interface.
 
 

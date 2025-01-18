@@ -1,4 +1,4 @@
-**Blinking LED**
+# Blinking LED
 
 **Components:**
 

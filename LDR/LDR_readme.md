@@ -1,4 +1,4 @@
-**Light Dependent Resistor (LDR)** 
+# Light Dependent Resistor (LDR)
 
 An LDR sensor, or photoresistor, is a variable resistor that changes its resistance based on the intensity of light falling on it.
 
@@ -10,11 +10,11 @@ The LDR typically has a zigzag or serpentine pattern of cadmium sulfide deposite
 
 *Dark State:*
 
-In darkness or low-light conditions, the material has few free electrons, resulting in high resistance (often in the mega ohm range).
+- In darkness or low-light conditions, the material has few free electrons, resulting in high resistance (often in the mega ohm range).
 
 *Light State:*
 
-When exposed to light, photons strike the material, exciting electrons and creating more charge carriers. This reduces the resistance, often to a few hundred ohms in bright light.
+- When exposed to light, photons strike the material, exciting electrons and creating more charge carriers. This reduces the resistance, often to a few hundred ohms in bright light.
 
 The resistance change is inversely proportional to the intensity of light.
 
