@@ -22,3 +22,5 @@ This project will show how to control a motor using an Arduino Uno and an L9110 
 ![Image](https://github.com/user-attachments/assets/4a213d76-6bc4-472e-a811-fab1681515dd)
 
 **Output:**
+
+https://github.com/user-attachments/assets/a31b8ff9-c386-452a-9890-a9e7c1933c3e

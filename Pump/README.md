@@ -26,4 +26,7 @@ Note: Instead of motor in the diagram, replace with Pump pins.
 
 **Output:**
 
+https://github.com/user-attachments/assets/8a4752b9-be0b-4899-901d-d19d0dd4edc4
+
+https://github.com/user-attachments/assets/da31536f-bf74-4faf-87bb-b430436d2eb9
 
